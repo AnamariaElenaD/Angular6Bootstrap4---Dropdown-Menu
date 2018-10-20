@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
+## Description
+
+How to add a library like bootstrap 4 in Angular 6 applications and use ng-bootstrap to attach behaviour for dropdown menu.
+
+
+## Watch video in the below URL
+
+https://youtu.be/M3ZdUyaPeVg
+
+## Tags
+
+Angular 6, bootstrap 4, ng-bootstrap, npm install, navbar, dropdown menu, bootstrap css, node-modules, package,json, Typescript, Template, Angular, Absolute Beginners
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
